@@ -29,6 +29,7 @@ The airline data used in this project is publicly available and sourced from IBM
 
 ## Screenshots
 https://github.com/Naveen-kumar2004/dashboard-creation/blob/main/Dashboard.png?raw=true
+https://github.com/Naveen-kumar2004/dashboard-creation/blob/main/Dashboard.png?raw=true
 
 ## Future Enhancements
   - Add more interactivity, such as filtering by airline or month.
