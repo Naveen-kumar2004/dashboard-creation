@@ -28,8 +28,7 @@ This repository contains a Python-based interactive dashboard that visualizes fl
 The airline data used in this project is publicly available and sourced from IBM Skills Network.
 
 ## Screenshots
-https://github.com/Naveen-kumar2004/dashboard-creation/blob/main/Dashboard.png?raw=true
-https://github.com/Naveen-kumar2004/dashboard-creation/blob/main/Dashboard.png?raw=true
+
 
 <img width="583" alt="Dashboard" src="https://github.com/user-attachments/assets/f06298b0-6aff-4937-9e6e-5f8f1e3f8804">
 
